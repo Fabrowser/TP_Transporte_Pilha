@@ -1,0 +1,15 @@
+C:\Users\fabri\source\repos\TransportePilha\TransportePilha\bin\Debug\net6.0\TransportePilha.exe
+C:\Users\fabri\source\repos\TransportePilha\TransportePilha\bin\Debug\net6.0\TransportePilha.deps.json
+C:\Users\fabri\source\repos\TransportePilha\TransportePilha\bin\Debug\net6.0\TransportePilha.runtimeconfig.json
+C:\Users\fabri\source\repos\TransportePilha\TransportePilha\bin\Debug\net6.0\TransportePilha.dll
+C:\Users\fabri\source\repos\TransportePilha\TransportePilha\bin\Debug\net6.0\TransportePilha.pdb
+C:\Users\fabri\source\repos\TransportePilha\TransportePilha\obj\Debug\net6.0\TransportePilha.csproj.AssemblyReference.cache
+C:\Users\fabri\source\repos\TransportePilha\TransportePilha\obj\Debug\net6.0\TransportePilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\source\repos\TransportePilha\TransportePilha\obj\Debug\net6.0\TransportePilha.AssemblyInfoInputs.cache
+C:\Users\fabri\source\repos\TransportePilha\TransportePilha\obj\Debug\net6.0\TransportePilha.AssemblyInfo.cs
+C:\Users\fabri\source\repos\TransportePilha\TransportePilha\obj\Debug\net6.0\TransportePilha.csproj.CoreCompileInputs.cache
+C:\Users\fabri\source\repos\TransportePilha\TransportePilha\obj\Debug\net6.0\TransportePilha.dll
+C:\Users\fabri\source\repos\TransportePilha\TransportePilha\obj\Debug\net6.0\refint\TransportePilha.dll
+C:\Users\fabri\source\repos\TransportePilha\TransportePilha\obj\Debug\net6.0\TransportePilha.pdb
+C:\Users\fabri\source\repos\TransportePilha\TransportePilha\obj\Debug\net6.0\TransportePilha.genruntimeconfig.cache
+C:\Users\fabri\source\repos\TransportePilha\TransportePilha\obj\Debug\net6.0\ref\TransportePilha.dll
